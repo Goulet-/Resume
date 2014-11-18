@@ -1,0 +1,57 @@
+/* Your Website Styles */
+body {
+	font-size: 1.25em;
+	line-height: 1.6;
+	background: #F4F5ED;
+	font-family: 'Dosis', sans-serif;
+}
+
+p {
+	font-size: 23px;
+	padding: 8px;
+	text-indent: 1.5em;
+	float: right;
+}
+
+
+div {
+	margin-top: -60px;
+	padding: 30px;
+}
+
+
+/* Show Grid */
+.showgrid {
+	background: #F4F5ED;
+}
+
+h1 {
+	font-size: 2.369em;
+	line-height: .5;
+	color: #332F3E;
+	padding-bottom: 1em;
+	margin-right: 100px;
+}
+
+h2 {
+	text-align: right;
+	font-size: .9em;
+	margin: 0 auto;
+	text-indent: 2.1em;
+}
+
+
+h3 {
+	text-align: center;
+	font-size: 1.777em;
+	color: #332F3E;
+}
+
+li {
+	text-align: center;
+	letter-spacing: 5px;
+	list-style: none;
+	padding-right: 25px;
+
+
+}
