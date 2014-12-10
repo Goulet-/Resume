@@ -2,8 +2,8 @@
 body {
 	font-size: 1.25em;
 	line-height: 1.6;
-	background: #F4F5ED;
-	font-family: 'Dosis', sans-serif;
+	background: #4d4d4d;
+	font-family: 'Advent Pro', sans-serif;
 }
 
 p {
@@ -17,20 +17,25 @@ p {
 div {
 	margin-top: -60px;
 	padding: 30px;
+	background-color: #85CEC2;
+}
+
+div h1 {
+	width: 1000px;
+	color: #4d4d4d;
 }
 
 
 /* Show Grid */
 .showgrid {
-	background: #F4F5ED;
+	background: #fff;
 }
 
 h1 {
 	font-size: 2.369em;
 	line-height: .5;
-	color: #332F3E;
-	padding-bottom: 1em;
-	margin-right: 100px;
+	color: #4d4d4d;
+	margin: auto;
 }
 
 h2 {
@@ -44,7 +49,7 @@ h2 {
 h3 {
 	text-align: center;
 	font-size: 1.777em;
-	color: #332F3E;
+	color: #4d4d4d;
 }
 
 li {
@@ -52,6 +57,8 @@ li {
 	letter-spacing: 5px;
 	list-style: none;
 	padding-right: 25px;
+}
 
-
+#footer {
+	display: inline-flex;
 }
